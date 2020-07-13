@@ -7,4 +7,8 @@
 - 📫 How to reach me: [@DeepeshNair14 - Twitter](https://twitter.com/DeepeshNair14) or (DeepeshNair - LinkedIn)[https://www.linkedin.com/in/hybridx/]
 - 😄 Pronouns: he/him/his
 
-![Yes gif](https://media.tenor.com/images/03d0fa556598caf3ee56b4726a7afd41/tenor.gif)
+
+### Here's a cat gif because, why not
+#### via @giphy
+
+![Yes gif](https://media3.giphy.com/media/l6Td5sKDNmDGU/giphy.gif)
