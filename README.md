@@ -8,7 +8,6 @@
 - 😄 Pronouns: he/him/his
 
 
-### Here's a cat gif because, why not
+### Here's 15% internet summarized 
 #### via @giphy
-
 ![Yes gif](https://media3.giphy.com/media/l6Td5sKDNmDGU/giphy.gif)
