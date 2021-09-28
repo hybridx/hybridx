@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on JavaScript/Python projects 
 - 🤔 I’m looking for help with understanding the internet a little better
 - 📫 How to reach me: [@_deepeshnair - Twitter](https://twitter.com/_deepeshnair) or [DeepeshNair - LinkedIn](https://www.linkedin.com/in/hybridx/)
-- 😄 Pronouns: he/him/his
 
 
 ### Here's 15% internet summarized 
