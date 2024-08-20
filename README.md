@@ -1,16 +1,18 @@
 ## Hey hey 👋
 
-- 🔭 I’m currently working on [My GitHub Page](http://hybridx.github.io/)
-- 🌱 I’m currently learning to be a little more human 😝
-- 👯 I’m looking to collaborate on JavaScript/Python projects 
-- 🤔 I’m looking for help with understanding the internet a little better
-- 📫 How to reach me: [@_deepeshnair - Twitter](https://twitter.com/_deepeshnair) or [DeepeshNair - LinkedIn](https://www.linkedin.com/in/hybridx/)
+### Welcome to my corner of the internet!
+I'm Deepesh, a curious coder and eternal student of life. 
 
+- 🔭 **Currently exploring**: [My GitHub Page](http://hybridx.github.io/)—come see what I’m tinkering with!
+- 🌱 **Learning to be**: A bit more human every day. I believe in coding with empathy. 😝
+- 👯 **Looking to collaborate on**: JavaScript and Python projects—if you're into clean, efficient code, let's connect!
+- 🤔 **Seeking wisdom on**: The vast, tangled web of the internet—teach me something new!
+- 📫 **Reach me at**: [Twitter: @_deepeshnair](https://twitter.com/_deepeshnair) | [LinkedIn: DeepeshNair](https://www.linkedin.com/in/hybridx/)
 
-### Here's 15% internet summarized 
-#### via @giphy
+### 15% of the Internet, Summarized
+#### Brought to you by @giphy
 ![Yes gif](https://media3.giphy.com/media/l6Td5sKDNmDGU/giphy.gif)
+Because sometimes, a gif says it all.
 
-
-### Contact me
-- [Click here if you want to schedule a quick 1:1](https://calendly.com/hybridx)
+### Let’s Chat!
+- [Schedule a 1:1 with me](https://calendly.com/hybridx)—I'm always up for a good conversation.
