@@ -3,7 +3,7 @@
 ### Welcome to my corner of the internet!
 I'm Deepesh, a curious coder and eternal student of life. 
 
-- 🔭 **Currently exploring**: [My GitHub Page](http://hybridx.github.io/)—come see what I’m tinkering with!
+- 🔭 **Currently exploring**: [My GitHub Page](https://hybridx.github.io/)—come see what I’m tinkering with!
 - 🌱 **Learning to be**: A bit more human every day. I believe in coding with empathy. 😝
 - 👯 **Looking to collaborate on**: JavaScript and Python projects—if you're into clean, efficient code, let's connect!
 - 🤔 **Seeking wisdom on**: The vast, tangled web of the internet—teach me something new!
