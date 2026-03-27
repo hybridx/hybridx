@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E34234&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Platform+Engineer+%40+Red+Hat;Open+Source+Contributor+%7C+DevConf+Organizer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E34234&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Developer+%40+Red+Hat;Open+Source+Contributor;DevConf+India+Organizer;Homelab+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ## Hey, I'm Deepesh
 
-Platform engineer specializing in **backend systems**, **infrastructure**, and **practical AI integration**. Currently at [@RedHatOfficial](https://github.com/RedHatOfficial), building things that scale. Core organizer for [DevConf India](https://www.devconf.info/in/) 2025 & 2026.
+Developer at [@RedHatOfficial](https://github.com/RedHatOfficial) working on **backend systems**, **infrastructure**, and **practical AI integration**. Core organizer for [DevConf India](https://www.devconf.info/in/) 2025 & 2026. Runs a Proxmox homelab on the side because production isn't exciting enough.
 
 I believe great software is built at the intersection of empathy and engineering.
 
@@ -38,6 +38,7 @@ I believe great software is built at the intersection of empathy and engineering
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -51,37 +52,42 @@ I believe great software is built at the intersection of empathy and engineering
 <tr>
 <td width="50%">
 
-**[AI Slack Companion](https://github.com/hybridx/ai-slack-companion)**
-An AI-powered Slackbot you can chat with for free. Built with JavaScript.
+**[SPAship](https://github.com/hybridx/spaship)**
+Single-Page App deployment and hosting platform. Ship SPAs with zero friction.
 
-![Stars](https://img.shields.io/github/stars/hybridx/ai-slack-companion?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/hybridx/ai-slack-companion?style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/hybridx/spaship?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/hybridx/spaship?style=flat-square&color=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%">
 
-**[My Moments](https://github.com/hybridx/my-moments)**
-Dynamic image gallery that auto-generates tabs from GitHub repo folders. Built with Vue.
+**[CEM](https://github.com/hybridx/cem)**
+Standards-based toolkit for Web Components. Generate Custom Elements Manifests, Dev Server, LSP, and MCP.
 
-[![Live](https://img.shields.io/badge/Live_Demo-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://hybridx.github.io/my-moments/)
+![Stars](https://img.shields.io/github/stars/hybridx/cem?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/hybridx/cem?style=flat-square&color=blue)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[React Contact App](https://github.com/hybridx/react-contact-app)**
-A clean CRUD application built with React.
+**[WebScraper](https://github.com/hybridx/WebScraper)**
+Full-featured web scraper built with Next.js and Supabase. Crawl, classify, and search media collections.
 
-[![Live](https://img.shields.io/badge/Live_Demo-61DAFB?style=flat-square&logo=react&logoColor=black)](https://hybridx.github.io/react-contact-app/)
+![Stars](https://img.shields.io/github/stars/hybridx/WebScraper?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/hybridx/WebScraper?style=flat-square&color=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%">
 
-**[GitHub Commit Updater](https://github.com/hybridx/github-commit-updater)**
-Because people judge you by your green squares, not your code.
+**[Project Manager](https://github.com/hybridx/project-manager)**
+AI-powered system that transforms natural language requirements into structured Jira backlogs and sprint plans.
 
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
