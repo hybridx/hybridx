@@ -1,18 +1,130 @@
-## Hey hey 👋
+<div align="center">
 
-### Welcome to my corner of the internet!
-I'm Deepesh, a curious coder and eternal student of life. 
+<!-- Dynamic typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E34234&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Platform+Engineer+%40+Red+Hat;Open+Source+Contributor+%7C+DevConf+Organizer)](https://git.io/typing-svg)
 
-- 🔭 **Currently exploring**: [My GitHub Page](https://hybridx.github.io/)—come see what I’m tinkering with!
-- 🌱 **Learning to be**: A bit more human every day. I believe in coding with empathy. 😝
-- 👯 **Looking to collaborate on**: JavaScript and Python projects—if you're into clean, efficient code, let's connect!
-- 🤔 **Seeking wisdom on**: The vast, tangled web of the internet—teach me something new!
-- 📫 **Reach me at**: [Twitter: @_deepeshnair](https://twitter.com/_deepeshnair) | [LinkedIn: DeepeshNair](https://www.linkedin.com/in/hybridx/)
+</div>
 
-### 15% of the Internet, Summarized
-#### Brought to you by @giphy
-![Yes gif](https://media3.giphy.com/media/l6Td5sKDNmDGU/giphy.gif)
-Because sometimes, a gif says it all.
+## Hey, I'm Deepesh
 
-### Let’s Chat!
-- [Schedule a 1:1 with me](https://calendly.com/hybridx)—I'm always up for a good conversation.
+Platform engineer specializing in **backend systems**, **infrastructure**, and **practical AI integration**. Currently at [@RedHatOfficial](https://github.com/RedHatOfficial), building things that scale. Core organizer for [DevConf India](https://www.devconf.info/in/) 2025 & 2026.
+
+I believe great software is built at the intersection of empathy and engineering.
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/@__deepeshnair-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_deepeshnair)
+[![LinkedIn](https://img.shields.io/badge/Deepesh_Nair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hybridx/)
+[![Website](https://img.shields.io/badge/181094.xyz-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://181094.xyz/)
+[![Portfolio](https://img.shields.io/badge/hybridx.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://hybridx.github.io/)
+[![Calendly](https://img.shields.io/badge/Schedule_a_Chat-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/hybridx)
+
+</div>
+
+---
+
+### What I Work With
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+**[AI Slack Companion](https://github.com/hybridx/ai-slack-companion)**
+An AI-powered Slackbot you can chat with for free. Built with JavaScript.
+
+![Stars](https://img.shields.io/github/stars/hybridx/ai-slack-companion?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/hybridx/ai-slack-companion?style=flat-square&color=blue)
+
+</td>
+<td width="50%">
+
+**[My Moments](https://github.com/hybridx/my-moments)**
+Dynamic image gallery that auto-generates tabs from GitHub repo folders. Built with Vue.
+
+[![Live](https://img.shields.io/badge/Live_Demo-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://hybridx.github.io/my-moments/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[React Contact App](https://github.com/hybridx/react-contact-app)**
+A clean CRUD application built with React.
+
+[![Live](https://img.shields.io/badge/Live_Demo-61DAFB?style=flat-square&logo=react&logoColor=black)](https://hybridx.github.io/react-contact-app/)
+
+</td>
+<td width="50%">
+
+**[GitHub Commit Updater](https://github.com/hybridx/github-commit-updater)**
+Because people judge you by your green squares, not your code.
+
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### Open Source Contributions
+
+I actively contribute to projects I care about:
+
+- **[The Test Trove (T3Con)](https://github.com/the-test-trove/the-test-trove.github.io)** &mdash; Auto-deployment and UX improvements for the T3Con conference website
+- **[PodMesh](https://github.com/side-projects-overkill/podmesh)** &mdash; Container infrastructure control plane on top of Podman
+- **[Gamedoora](https://github.com/gamedoora/gamedoora-ui)** &mdash; Social and collaboration hub for gaming, animation, and film production
+- **[One Platform](https://github.com/1-Platform/one-platform)** &mdash; An integrated application hosting platform
+
+---
+
+### GitHub at a Glance
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hybridx&theme=radical" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hybridx&theme=radical" />
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hybridx&theme=radical" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hybridx&theme=radical&utcOffset=5.5" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hybridx&theme=radical&hide_border=true&background=0d1117&ring=E34234&fire=E34234&currStreakLabel=E34234)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hybridx&color=E34234&style=flat-square&label=Profile+Views)
+
+*"Code with empathy. Ship with confidence."*
+
+</div>
